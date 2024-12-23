@@ -1,9 +1,8 @@
 
-import day21.Day21;
-import day22.Day22;
+import day23.Day23;
 
 public class Main {
     public static void main(String[] args) {
-        new Day22().largeSol();
+        new Day23().largeSol();
     }
 }
